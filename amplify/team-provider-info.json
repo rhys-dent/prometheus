@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-prometheus-dev-191544-authRole",
+      "UnauthRoleArn": "arn:aws:iam::202541471298:role/amplify-prometheus-dev-191544-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::202541471298:role/amplify-prometheus-dev-191544-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-prometheus-dev-191544-deployment",
+      "UnauthRoleName": "amplify-prometheus-dev-191544-unauthRole",
+      "StackName": "amplify-prometheus-dev-191544",
+      "StackId": "arn:aws:cloudformation:us-west-2:202541471298:stack/amplify-prometheus-dev-191544/dc2c3f80-7e21-11eb-933c-0236fb0d92c9",
+      "AmplifyAppId": "dietdiz4bll0c"
+    },
+    "categories": {
+      "auth": {
+        "prometheusb0d1eb49": {}
+      }
+    }
+  }
+}

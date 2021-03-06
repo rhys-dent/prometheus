@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "prometheusb0d1eb49": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
